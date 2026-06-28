@@ -1,0 +1,10 @@
+{
+  "name": "@aushu/web-ui",
+  "version": "0.0.0",
+  "private": true,
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "echo 'Web UI build stub'"
+  },
+  "description": "Placeholder package for the Aushu web UI workspace"
+}

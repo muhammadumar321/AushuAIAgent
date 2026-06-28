@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "aushu-core"
+version = "0.1.0"
+description = "Aushu core agent runtime (scaffold)"
+dependencies = ["typing_extensions", "PyYAML"]
+
+[project.scripts]
+agent = "aushu_core.cli:main"

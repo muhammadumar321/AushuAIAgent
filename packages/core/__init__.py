@@ -1,0 +1,1 @@
+# Aushu Core package root

@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: aushu-permissions
+Version: 0.1.0
+Summary: Aushu permission engine (scaffold)
+Requires-Dist: PyYAML

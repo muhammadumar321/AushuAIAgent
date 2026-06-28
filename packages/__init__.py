@@ -1,0 +1,1 @@
+# Aushu monorepo packages root
