@@ -1,2 +1,0 @@
-[console_scripts]
-agent = aushu_core.cli:main
