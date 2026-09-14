@@ -1,4 +1,4 @@
 # Dev / quality tooling
-ruff>=0.6.0
+ruff>=0.16.7
 mypy>=1.11.0
 pre-commit>=3.8.0
